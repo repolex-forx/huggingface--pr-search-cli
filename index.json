@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "pr-search-cli",
+  "versions": [
+    {
+      "commit": "3906344cc874cc39f1a25562222fc2e669e9643d",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:38:29.968216+00:00"
+    }
+  ]
+}
