@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/pr-search-cli/commit/3906344cc874cc39f1a25562222fc2e669e9643d",
       "git:hexsha": "3906344cc874cc39f1a25562222fc2e669e9643d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T23:38:29.967822+00:00"
     }
   ]
 }
